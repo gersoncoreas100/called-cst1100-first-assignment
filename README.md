@@ -1,1 +1,2 @@
 # called-cst1100-first-assignment
+# Hello people!! My name is Gerson Corea. I am from the Bronx, and I am taking this CST course because I have been interested in exploring and creating things with computers all my life and I hope that in college I can become more proficient with these things and hopefully be able to use this knowledge for my career. A fun fact about me is that I have a CD collection of around 200 items.
